@@ -6,5 +6,7 @@ Self supervised learning by Solving Jigsaw Puzzles and Transfert Learning for Co
 - Salvatore Sipatala
 
 
-https://arxiv.org/pdf/1603.09246.pdf
-https://github.com/ieee8023/covid-chestxray-dataset
+- Unsupervised Learning of Visual Representations by Solving Jigsaw Puzzles:
+- https://arxiv.org/pdf/1603.09246.pdf
+- Dataset:
+- https://github.com/ieee8023/covid-chestxray-dataset
