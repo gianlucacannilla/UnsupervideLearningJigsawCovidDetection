@@ -1,2 +1,6 @@
-# UnsupervideLearningJigsawCovidDetection
-Using Unsupervised Learning of Visual Representations by Solving Jigsaw Puzzles for Covid Detection
+# SelfSupervideLearningJigsawCovidDetection
+Self supervised learning of Visual Representations by Solving Jigsaw Puzzles and Transfert Learning for Covid Detection.
+
+Gianluca Cannilla
+Gabriele Drago
+Salvatore Sipatala
